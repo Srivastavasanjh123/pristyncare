@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pristyncare/static/css/main.896caf0f.css",
+    "main.js": "/pristyncare/static/js/main.5f71ec82.js",
+    "static/js/453.99da484d.chunk.js": "/pristyncare/static/js/453.99da484d.chunk.js",
+    "index.html": "/pristyncare/index.html",
+    "main.896caf0f.css.map": "/pristyncare/static/css/main.896caf0f.css.map",
+    "main.5f71ec82.js.map": "/pristyncare/static/js/main.5f71ec82.js.map",
+    "453.99da484d.chunk.js.map": "/pristyncare/static/js/453.99da484d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.896caf0f.css",
+    "static/js/main.5f71ec82.js"
+  ]
+}
